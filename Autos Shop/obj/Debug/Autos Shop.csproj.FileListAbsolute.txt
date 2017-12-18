@@ -1,0 +1,12 @@
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\bin\Debug\Autos Shop.exe.config
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos Shop.csprojResolveAssemblyReference.cache
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos_Shop.login.resources
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos_Shop.Main.resources
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos_Shop.Properties.Resources.resources
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos Shop.csproj.GenerateResource.Cache
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\bin\Debug\Autos Shop.exe
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\bin\Debug\Autos Shop.pdb
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos Shop.exe
+c:\users\sheikh hussnain\documents\visual studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos Shop.pdb
+C:\Users\Sheikh Hussnain\Documents\Visual Studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos_Shop.frmAll.resources
+C:\Users\Sheikh Hussnain\Documents\Visual Studio 2013\Projects\Project\Autos Shop\obj\Debug\Autos_Shop.change.resources
